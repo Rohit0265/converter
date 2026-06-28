@@ -1,0 +1,17 @@
+i want you to make a video conversion project.
+
+here user upload a video and it can covert thhe video in different quality like mp4 , webp ,etc.
+
+these uppere feature comes in a small coloumn and there is another column which hellp to choose the video quality
+
+the project should have
+- a box where user can upload the video or drag and drop the video files(this column is on left)
+
+- between these coloumn there are two button which it already disscuss above  
+
+
+- a box where user can see the there converted file with a download button under it
+
+a progress bar to show the video conversion progress.
+
+the output should be in a downloadable format.
